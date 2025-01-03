@@ -836,6 +836,10 @@ ul {
   flex-grow: 1;
 }
 
+.footer-navigate {
+  padding-top: 16px;
+}
+
 .footer-navigate,
 .footer-adress,
 .footer-politics {
